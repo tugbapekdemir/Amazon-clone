@@ -10,7 +10,7 @@
 ## 🎥 Proje Önizlemesi
 
 Aşağıda projeye ait kısa bir önizleme görebilirsiniz:
-[Amazonclonevedier9sayfa-Kiisel-MicrosoftEdge2025-05-2610-01-33-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/3ac1cf4b-1a79-405e-8816-f9f69c040d63)
+![Amazonclonevedier9sayfa-Kiisel-MicrosoftEdge2025-05-2610-01-33-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/3ac1cf4b-1a79-405e-8816-f9f69c040d63)
 
 
 
