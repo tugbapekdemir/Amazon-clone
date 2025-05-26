@@ -1,4 +1,4 @@
-# 🛒 Amazon UI Clone
+# 🛒 Amazon Clone
 -Bu proje, Amazon'un satış sayfasına benzer bir kullanıcı arayüzü tasarımını HTML ve CSS kullanarak oluşturduğum bir çalışmadır. Projede **banner**, **kategoriler**, **indirimler** ve **footer** gibi temel bölümler yer almakta ve tamamen responsive yapıda değildir, ancak temel frontend yapısını yansıtmaktadır.
 
 ## 🎯 Özellikler
